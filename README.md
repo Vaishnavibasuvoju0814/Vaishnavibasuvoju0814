@@ -1,34 +1,42 @@
 <h1 align="center">🌸 Hey there, I'm Vaishnavi 🌸</h1>
 
-<h3 align="center">
-🐍 Turning coffee ☕ into Python code
-</h3>
-
-<h3 align="center">
-🗄️ Finding comfort in SQL queries
-</h3>
-
-<h3 align="center">
-🤖 Exploring the world of AI Agents
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=800&lines=🐍+Turning+coffee+☕+into+Python+code;🗄️+Finding+comfort+in+SQL+queries;🤖+Exploring+the+world+of+AI+Agents" />
+</p>
 
 ---
 
-## 🌷 About Me
+## 🤖 Agent Profile
 
-🐍 Falling in love with Python, one line at a time
+```python
+agent = {
+    "name": "Vaishnavi 🌸",
 
-🧠 Sharpening my problem-solving skills through DSA
+    "role": "Python Developer 🐍",
 
-🌐 Building ideas into reality with Django
+    "status": "Learning • Building • Growing 🚀",
 
-⚛️ Exploring modern interfaces with React
+    "skills": [
+        "Python 🐍",
+        "SQL 🗄️",
+        "Django 🌐",
+        "React ⚛️"
+    ],
 
-🗄️ Finding comfort in SQL queries
+    "interests": [
+        "AI Agents 🤖",
+        "Open Source 💜",
+        "DSA 🧠"
+    ],
 
-🤖 Curious about AI Agents & intelligent systems
+    "favorite_language": "Python 🐍",
 
-✨ Learning, building, and growing one commit at a time
+    "favorite_database": "SQL 🗄️",
+
+    "mission":
+        "Turn coffee ☕ into Python code"
+}
+```
 
 ---
 
@@ -71,9 +79,11 @@ if sql_exists:
 ## 📊 GitHub Stats
 
 <p align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vaishnavibasuvoju0814&show_icons=true&theme=rose_pine&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavibasuvoju0814&layout=compact&theme=rose_pine&hide_border=true"/>
+
 </p>
 
 ---
