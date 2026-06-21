@@ -35,15 +35,19 @@
 </p>
 
 ---
+## 🧩 Coding Profiles
 
-## 🌱 Currently Learning
+<p align="center">
 
-* 🐍 Advanced Python
-* 🌐 Django
-* ⚛️ React
-* 🧠 Data Structures & Algorithms
-* 🤖 AI Agents
+<a href="https://leetcode.com/u/VaishnaviBasuvoju0814/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="YOUR_CODECHEF_URL">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 🏆 Achievements
@@ -86,27 +90,11 @@ if sql_exists:
 
 ---
 
-## 🧩 Coding Profiles
-
-<p align="center">
-
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="YOUR_CODECHEF_URL">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vaishnavi-basuvoju/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
