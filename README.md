@@ -40,10 +40,6 @@
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,mysql,git,github,vscode" />
 </p>
 
-<p align="center">
-  🤗 Hugging Face
-</p>
-
 ---
 
 ## 🌱 Currently Learning
@@ -65,7 +61,7 @@
 
 💜 Open Source Contributor
 
-🤖 AI Agent Builder
+🤖 AI Agent Projects
 
 ---
 
@@ -117,12 +113,6 @@ if sql_exists:
 
 ---
 
-## 🌸 Favorite Quote
-
-> "I came for Python, stayed for Django, and never stopped writing SQL."
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -137,6 +127,4 @@ if sql_exists:
 
 <p align="center">
 🌸 Thanks for stopping by 🌸
-<br><br>
-🐍 Python • 🗄️ SQL • 🌐 Django • ⚛️ React • 🤖 AI Agents • 🤗 Hugging Face
 </p>
