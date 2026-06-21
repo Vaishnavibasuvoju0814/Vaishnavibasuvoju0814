@@ -4,35 +4,28 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=850&lines=🐍+Turning+coffee+into+Python+code;💗+Finding+comfort+in+SQL+queries;🧸+Exploring+the+world+of+AI+Agents" />
 </p>
 
+<p align="center">
+<img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="500">
+</p>
+
 ---
 
-## Agent Profile
+## 🧸 Agent Profile
 
 ```python
 agent = {
     "name": "Vaishnavi 🌸",
-
     "role": "Python Developer 🐍",
-
     "status": "Learning • Building • Growing 🚀",
 
-    "skills": [
-        "Python 🐍",
-        "SQL 💗",
-        "Django 🌐",
-        "React ⚛️"
-    ],
+    "skills": ["Python 🐍", "SQL 💗", "Django 🌐", "React ⚛️"],
 
-    "interests": [
-        "AI Agents 🧸",
-    ],
+    "interests": ["AI Agents 🧸"],
 
     "favorite_language": "Python 🐍",
-
     "favorite_database": "SQL 💗",
 
-    "mission":
-        "Build cool things with Python and a little bit of curiosity ✨"
+    "mission": "Build cool things with Python ✨"
 }
 ```
 
