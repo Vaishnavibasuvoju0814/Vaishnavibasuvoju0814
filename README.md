@@ -1,8 +1,16 @@
 <h1 align="center">🌸 Hey there, I'm Vaishnavi 🌸</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=FF69B4&center=true&vCenter=true&width=850&lines=🐍+Turning+coffee+☕+into+Python+code;🗄️+Finding+comfort+in+SQL+queries;🤖+Exploring+the+world+of+AI+Agents" />
-</p>
+<h3 align="center">
+🐍 Turning coffee ☕ into Python code
+</h3>
+
+<h3 align="center">
+🗄️ Finding comfort in SQL queries
+</h3>
+
+<h3 align="center">
+🤖 Exploring the world of AI Agents
+</h3>
 
 ---
 
@@ -81,11 +89,9 @@ if sql_exists:
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/vaishnavi-basuvoju/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 </p>
 
 ---
