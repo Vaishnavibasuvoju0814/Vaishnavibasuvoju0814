@@ -1,12 +1,12 @@
 <h1 align="center">🌸 Hey there, I'm Vaishnavi 🌸</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=800&lines=🐍+Turning+coffee+☕+into+Python+code;🗄️+Finding+comfort+in+SQL+queries;🤖+Exploring+the+world+of+AI+Agents" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FF69B4&center=true&vCenter=true&width=800&lines=🐍+Turning+coffee+☕+into+Python+code;+Finding+comfort+in+SQL 💗+queries;+Exploring+the+world+of+AI+Agents🧸" />
 </p>
 
 ---
 
-## 🤖 Agent Profile
+## Agent Profile
 
 ```python
 agent = {
@@ -18,23 +18,21 @@ agent = {
 
     "skills": [
         "Python 🐍",
-        "SQL 🗄️",
+        "SQL 💗",
         "Django 🌐",
         "React ⚛️"
     ],
 
     "interests": [
-        "AI Agents 🤖",
-        "Open Source 💜",
-        "DSA 🧠"
+        "AI Agents 🧸",
     ],
 
-    "favorite_language": "Python 🐍",
+    "favorite_language": "Python ",
 
-    "favorite_database": "SQL 🗄️",
+    "favorite_database": "SQL 💗 ",
 
     "mission":
-        "Turn coffee ☕ into Python code"
+        "Build cool things with Python and a little bit of curiosity ✨"
 }
 ```
 
