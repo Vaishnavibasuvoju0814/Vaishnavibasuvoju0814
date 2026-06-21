@@ -35,6 +35,7 @@
 </p>
 
 ---
+
 ## 🧩 Coding Profiles
 
 <p align="center">
@@ -43,20 +44,11 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="YOUR_CODECHEF_URL">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/vaishnavibasuvo1">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
----
-
-## 🏆 Achievements
-
-🌟 GirlScript Summer of Code (GSSoC) Contributor
-
-🦈 GitHub Pull Shark Achievement
-
-💜 Open Source Contributor
 
 ---
 
